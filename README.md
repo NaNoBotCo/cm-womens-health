@@ -90,3 +90,7 @@ Attribution: © OpenStreetMap contributors.
 
 This is a directory of places, compiled from open data. It is not a
 recommendation, a referral, or clinical advice.
+
+---
+
+Contact: Nan · nan@motdang.net · Sponsor: [Ko-fi](https://ko-fi.com/defiantchiangmai) · [Patreon](https://www.patreon.com/nanobotco)
